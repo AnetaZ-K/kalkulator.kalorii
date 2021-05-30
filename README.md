@@ -1,5 +1,5 @@
 # kalkulator.kalorii
-## Aneta Zakrzewska-Kruk
+## Autor projektu: Aneta Zakrzewska-Kruk
 ### Projekt: kalkulator.kalorii 
 #### Główne założenia projektu:
       * umożliwienie użytkownikowi obliczanie ilości kalorii spożywanych w ciągu dnia za pomocą kalkulatora korzystającego z bazy danych utworzonej na podstawie tabel wartości odżywczych
